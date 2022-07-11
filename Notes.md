@@ -4,4 +4,4 @@
 
 2. https://newsletter.blockthreat.io - newsletter to keep upto date with blockchain security news 
 
-3. 
+3. https://github.com/Anugrahsr/Awesome-web3-Security - resources checklist
